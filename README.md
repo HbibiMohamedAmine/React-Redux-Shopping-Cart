@@ -18,5 +18,5 @@ Tech Stack:
 
  ## 📸 Preview
 
-![Shopping Cart Preview](Screenshot1)
+![Shopping Cart Preview](Screenshot1.png)
 
