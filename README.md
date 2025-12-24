@@ -15,3 +15,8 @@ Tech Stack:
 - Redux Toolkit
 - JavaScript
 - CSS
+
+ ## 📸 Preview
+
+![Shopping Cart Preview](Screenshot1)
+
